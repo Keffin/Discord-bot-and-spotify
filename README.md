@@ -27,4 +27,4 @@ Go to the spotify developer dashboard. Get your client id, get your client secre
 Set the username to your username uri and the playlist to the playlist uri of your choice.
 
 ## Step 6:
-Once the client id, client secret, redirect uri, spotify token and discord token are set it's just to run the program!
+Once the client id, client secret, redirect uri, spotify token and discord token are set you can run the program!

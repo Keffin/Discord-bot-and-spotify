@@ -203,6 +203,9 @@ async def on_message(message):
 
 @client.event
 async def on_ready():
+    """
+    Prints out in the console when the bot has logged on, pretty straight forward. 
+    """
     print("Logged in as")
     print(client.user.name)
     print(client.user.id)
